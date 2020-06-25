@@ -1,0 +1,81 @@
+# Project template
+- layout: top-middle
+  name: TutorTime Tutors
+  applelink: https://apps.apple.com/au/app/tutortime-tutors/id1497266521
+  googlelink: https://play.google.com/store/apps/details?id=com.tutortime&hl=en_IN
+  description: | # this will include new lines to allow paragraphs
+    Online tutoring app. It's an app that provide a platform for the end users to register themselves as tutor and on the other hand it provide parents to book specific tutor available for particular date and time.
+    
+- layout: top-middle
+  name: Concrete club (ACC)
+  applelink: https://apps.apple.com/in/app/concrete-club-app/id1468448588
+  googlelink: https://play.google.com/store/apps/details?id=com.concreteclub&hl=en_IN
+  description: | # this will include new lines to allow paragraphs
+    Social networking app for builders. It's an app that provide a platform for builders to connect with their community. It's a platform provided by ACC cement to entertain builders and award them with some coupons for their fantastic work and experience.
+    
+- layout: top-middle
+  name: Prep2Pass
+  applelink: https://apps.apple.com/us/app/prep2pass/id1380744860
+  googlelink: https://play.google.com/store/apps/details?id=com.prepare.pass&hl=en_IN
+  description: | # this will include new lines to allow paragraphs
+    Prep2Pass is the first education app that helps the user prepare for the SAFE MLO test in a way that makes sure that the user is enjoying and getting challenged. From a question on flashcards which user can flip, hide and have on various topics, to challenge another user for global rank, the app is a perfect solution for the user.
+    
+- layout: top-middle
+  name: Photostats
+  applelink: https://apps.apple.com/us/app/photostats-auto-tag-tracker/id1304991596
+  googlelink: https://play.google.com/store/apps/details?id=io.photostats.android.app&hl=en_IN
+  description: | # this will include new lines to allow paragraphs
+    A photo Keeping app that keeps image tags in image itself. It is achieved by saving all of them in the metadata of that particular image.
+    
+- layout: top-middle
+  name: Natrella
+  applelink: https://apps.apple.com/us/app/natrella/id1457649862
+  description: | # this will include new lines to allow paragraphs
+    Natrella encourages you to take better care of yourself by practicing and cherishing self-care moments! Unlike other apps, it does not force you for having a strict day plan with a list of Do’s and Don’ts, rather it allows you to design your path the way you want.
+
+- layout: top-middle
+  name: Coding Is Good
+  applelink: https://apps.apple.com/us/app/coding-is-good/id1354430214?ls=1
+  description: | # this will include new lines to allow paragraphs
+    Coding Is Good, a technology-rich app developed using React Native allows the user to run python code on their smart devices just with a tap. The app involves bite-sized interactive lessons, quirky exercises and actual situations presented in the form of programs.
+
+- layout: top-middle
+  name: Urban Rider Society
+  googlelink: https://play.google.com/store/apps/details?id=com.urbanridersociety.app&hl=en_IN
+  description: | # this will include new lines to allow paragraphs
+    Urban Rider Society app is developed for the safety of riders where it helps to detect a crash and knows whether you are moving or require assistance; connecting you to the nearest ambulance service in your time of need. Users can also add their personal details with emergency contact numbers. It also shows us the location where the crash is detected.
+    
+- layout: top-middle
+  name: LieCoin Customer/Partner
+  description: | # this will include new lines to allow paragraphs
+    A React Native app to distribute coupons to customers for a number of vendors that can be redeemed for benefits.
+    
+- layout: top-middle
+  name: AR Chat
+  description: | # this will include new lines to allow paragraphs
+    A refined use of Augmented Reality in React Native with chat and social share options as Pokemon Go. By using Vuforia framework.
+    
+- layout: top-middle
+  name: Virtual Vend
+  description: | # this will include new lines to allow paragraphs
+    An ongoing React Native project for online liquor delivery.
+    
+- layout: top-middle
+  name: Qualorie
+  description: | # this will include new lines to allow paragraphs
+    A React Native fitness app with use of graphs to show and guide user about its daily routine.
+    
+- layout: top-middle
+  name: Qserv
+  description: | # this will include new lines to allow paragraphs
+    A kind of task manager app in React Native to keep track of activities assigned. And the ability to assign tasks to someone.
+    
+- layout: top-middle
+  name: Take Me Out
+  description: | # this will include new lines to allow paragraphs
+    A Tinder like app in React Native. Uses a lot of React Animations
+    
+- layout: top-middle
+  name: Mixxr
+  description: | # this will include new lines to allow paragraphs
+    A location based app that keep track of user's location and maintain their events depending on that using firebase cloud functions.

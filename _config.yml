@@ -1,0 +1,84 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Deep Bansal
+title: Sr. React Native Developer
+email: contact.deepbansal@gmail.com
+phone: (+91)9780433809
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+linkedin_username: deep-bansal-94789a46
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: assets/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  A learner and a dedicated programmer with 5+ years of experience in developing Hybrid Apps and Games. Learns a lot of emerging technologies and always eager to learn new things.
+
+
+  SKILLS
+    - <mark>JavaScript</mark>
+    - <mark>TypeScript</mark>
+    - <mark>CSS</mark>
+    - <mark>Redux</mark>
+    - <mark>Saga</mark>
+    - <mark>Hooks</mark>
+    - <mark>SpriteKit</mark>
+    - <mark>Firebase</mark>
+    - <mark>AR/VR</mark>
+    - <mark>Payment gateway</mark>
+    - <mark>Maps</mark>
+    - <mark>BAAS</mark>
+    - <mark>Cloud Functions</mark>
+    - <mark>Tensorflow</mark>
+    - <mark>Facial recognition</mark>
+    - <mark>BLE devices</mark>
+    
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
