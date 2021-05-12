@@ -1,5 +1,11 @@
 # Project template
 - layout: top-middle
+  name: Fleet | Sweat with Friends
+  applelink: https://apps.apple.com/in/app/fleet-sweat-with-friends/id1561905109
+  description: | # this will include new lines to allow paragraphs
+    Make a team with your friends and together commit to a weekly workout schedule for a certain amount of time.
+
+- layout: top-middle
   name: TutorTime Tutors
   applelink: https://apps.apple.com/au/app/tutortime-tutors/id1497266521
   googlelink: https://play.google.com/store/apps/details?id=com.tutortime&hl=en_IN
