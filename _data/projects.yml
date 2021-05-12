@@ -53,6 +53,8 @@
     
 - layout: top-middle
   name: LieCoin Customer/Partner
+  applelink: https://apps.apple.com/ch/app/liecoin/id1458089970
+  googlelink: https://play.google.com/store/apps/details?id=com.liecoin
   description: | # this will include new lines to allow paragraphs
     A React Native app to distribute coupons to customers for a number of vendors that can be redeemed for benefits.
     
