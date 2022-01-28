@@ -1,5 +1,10 @@
 # Project template
 - layout: top-middle
+  name: Force for Good (Singapore based organisation)
+  description: | # this will include new lines to allow paragraphs
+    Force for Good is the world's 1st Social Impact Network.
+
+- layout: top-middle
   name: Fleet | Sweat with Friends
   applelink: https://apps.apple.com/in/app/fleet-sweat-with-friends/id1561905109
   description: | # this will include new lines to allow paragraphs
