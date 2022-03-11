@@ -2,13 +2,7 @@
 - layout: top-middle
   name: Force for Good (Singapore based organisation)
   description: | # this will include new lines to allow paragraphs
-    Force for Good is the world's 1st Social Impact Network.
-
-- layout: top-middle
-  name: Fleet | Sweat with Friends
-  applelink: https://apps.apple.com/in/app/fleet-sweat-with-friends/id1561905109
-  description: | # this will include new lines to allow paragraphs
-    Make a team with your friends and together commit to a weekly workout schedule for a certain amount of time.
+    An ongoing React Native project that is world's 1st Social Impact Network.
 
 - layout: top-middle
   name: TutorTime Tutors
@@ -38,6 +32,8 @@
   description: | # this will include new lines to allow paragraphs
     A photo Keeping app that keeps image tags in image itself. It is achieved by saving all of them in the metadata of that particular image.
     
+  description: | # this will include new lines to allow paragraphs
+
 - layout: top-middle
   name: Natrella
   applelink: https://apps.apple.com/us/app/natrella/id1457649862
